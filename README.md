@@ -104,7 +104,7 @@ The **IMEI Property Portfolio Dashboard** was developed to provide a data-driven
 
 **John David**
 
-📎 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/john-david-b7b5781b3/)
+📎 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/john-david-b7b5781b3/))
 
 📧 [Email Me](mailto:adelekejohndavid@gmail.com)
 
