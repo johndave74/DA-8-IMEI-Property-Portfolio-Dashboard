@@ -24,6 +24,35 @@ The **IMEI Property Portfolio Dashboard** was developed to provide a data-driven
 
 ---
 
+## Business Questions
+1. Count of Property Types:									
+   - How many properties belong to each type (Detached, Semi-detached, etc.)?									
+  									
+2. Average Asking Price by Property Type:									
+   - What is the average asking price for each property type?									
+									
+3. Total and Average Sale Price by Location:									
+   - What is the total and average sale price of properties in each location (Town, Village, Countryside)?									
+									
+4. Average No. of Bedrooms per Property Type:									
+   - What is the average number of bedrooms for each property type?									
+									
+5. Properties Listed vs. Sold:									
+   - How many properties were listed and how many were sold?									
+									
+6. Time on Market Analysis:									
+   - What is the average days a property stays on the market before being sold?									
+									
+7. Price Reduction Analysis:									
+   - What percentage of properties sold below the asking price?									
+	Create a new column to the data showing the difference btw the sales price and the asking price								
+	Create a price reduction tag with the IF function (if the sales price is lesser than the asking price, return reduced, otherwise return not reduced								
+	Then set your pivot to show the count of each reduction tag and the percentage of grand total								
+									
+8. Garden Size and Property Price:									
+   - Do properties with larger gardens have higher asking/sale prices?									
+
+
 ## 📊 Key Insights
 
 ### 🔹 Overall Metrics:
